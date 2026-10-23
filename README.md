@@ -1,6 +1,8 @@
 # My Portfolio
 
 ## CV
+[Открыть мое интерактивное CV](url)
+
 My CV and professional information.
 
 ## Projects
