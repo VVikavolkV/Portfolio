@@ -1,7 +1,7 @@
 # My Portfolio
 
 ## CV
-[Открыть мое интерактивное CV]([url](https://vvikavolkv.github.io/Portfolio/))
+[Открыть мое интерактивное CV](https://vvikavolkv.github.io/Portfolio/)
 
 My CV and professional information.
 
